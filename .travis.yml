@@ -1,9 +1,4 @@
 language: python
-cache: bundler
-sudo: false
-branches:
-    only:
-        - master
 python:
 - 3.4
 install:
