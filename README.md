@@ -1,3 +1,3 @@
-use pytest and flake8 with travis-ci test
+[![Build Status](https://travis-ci.org/jangho/pytest_travis-ci_flake8.svg?branch=master)](https://travis-ci.org/jangho/pytest_travis-ci_flake8)
 
-https://travis-ci.org/jangho/pytest_travis-ci_flake8.svg?branch=master
+use pytest and flake8 with travis-ci test
